@@ -1,0 +1,1 @@
+add_executable(Homework_4 main.c LinkList.c)

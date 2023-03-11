@@ -1,0 +1,5 @@
+#include "BubbleSort.hpp"
+#include "HeapSort.hpp"
+#include "InsertSort.hpp"
+#include "QuickSort.hpp"
+#include "SelectSort.hpp"

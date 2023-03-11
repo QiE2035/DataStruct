@@ -1,0 +1,2 @@
+add_subdirectory(Student_Score_Manage_System)
+add_subdirectory(Bracket_Matching)

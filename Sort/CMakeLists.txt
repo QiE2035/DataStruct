@@ -1,0 +1,7 @@
+add_executable(Insert_Sort InsertSort.c)
+add_executable(Quick_Sort QuickSort.c)
+add_executable(Shell_Sort ShellSort.c)
+add_executable(Bubble_Sort BubbleSort.c)
+add_executable(Select_Sort SelectSort.c)
+add_executable(Heap_Sort HeapSort.c)
+add_executable(Merge_Sort MergeSort.c)

@@ -1,0 +1,1 @@
+add_executable(Homework_1 main.c SeqList.c)
